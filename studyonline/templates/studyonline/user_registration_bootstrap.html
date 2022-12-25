@@ -16,8 +16,8 @@
             <ul class="nav navbar-nav navbar-right">
                 {% if user.is_authenticated %}
                 <li>
-                    <a class="btn btn-link" href="#">{{ user.first_name }}({{ user.username }})</a>
-                    <a class="btn btn-link" href="{% url 'studyonline:logout' %}">Logout</a>
+                    <a class="btn btn-link" href="#">{{ user.first_name }} {{ user.username|capfirst }}</a>
+                    <button><a class="btn btn-link" href="{% url 'studyonline:logout' %}">Logout</a></button>
                 </li>
                 {% else %}
                 <li>
