@@ -78,12 +78,6 @@ WSGI_APPLICATION = 'maplehacks.wsgi.application'
 
 DATABASES = {
     'default': {
-        user=postgres password=@OLagBile2@ host=db.gpdsrhtpfushrscjakbz.supabase.co port=5432 database=postgres
-    }
-}
-
-DATABASES = {
-    'default': {
         'ENGINE': "django.db.backends.postgresql_psycopg2",
         'HOST': "db.gpdsrhtpfushrscjakbz.supabase.co",
         'NAME': "postgres",
