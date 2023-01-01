@@ -82,6 +82,18 @@ DATABASES = {
     }
 }
 
+DATABASES = {
+    'default': {
+        'ENGINE': "django.db.backends.postgresql_psycopg2",
+        'HOST': "db.gpdsrhtpfushrscjakbz.supabase.co",
+        'NAME': "postgres",
+        'USER': "postgres",
+        'PASSWORD': "@OLagBile2@",
+        'PORT': "5432",
+
+    }
+}
+
 
 
 # Password validation
