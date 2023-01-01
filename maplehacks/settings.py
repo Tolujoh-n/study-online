@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'maplehacks.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': "postgres",
+        'ENGINE': "django.db.backends.postgresql_psycopg2",
         'HOST': "db.gpdsrhtpfushrscjakbz.supabase.co",
         'NAME': "postgres",
         'USER': "postgres",
