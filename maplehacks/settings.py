@@ -79,7 +79,6 @@ WSGI_APPLICATION = 'maplehacks.wsgi.application'
 DATABASES = {
     'default': {
         user=postgres password=@OLagBile2@ host=db.gpdsrhtpfushrscjakbz.supabase.co port=5432 database=postgres
-
     }
 }
 
@@ -122,7 +121,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATICFILES_DIRS = os.path.join(BASE_DIR, 'static'),
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
 MEDIA_ROOT = os.path.join(STATIC_ROOT, 'media')
 MEDIA_URL = '/media/'
 
