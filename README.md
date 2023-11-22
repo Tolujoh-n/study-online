@@ -1,4 +1,3 @@
-# My first Online course WEB/APP project
 
 ### installed the following on your computer
 - Python latest version which pip get installed with it automatically run this to check `Python -V`
