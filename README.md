@@ -2,7 +2,7 @@
 ### installed on your computer
 - Python latest version which pip get installed with it automatically run this to check `Python -V`
 - Django run this to check `python -m django –version` if not installed install it using pip `pip install django`
-- PostgreSQL and have it connected 
+- PostgreSQL and have it connected properly
 ### Install the required package
 - Django needs an adpter called `Psycopg2` as an interface to work with PostgraSQL you can install it using this command 
 `python -m pip install Psycopg2-binary`
