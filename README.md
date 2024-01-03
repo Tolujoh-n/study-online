@@ -18,7 +18,7 @@ It is an online course App you you need to be a superuser by creating an admin a
 
 ## Update the app data
 - create an admin user `python manage.py createsuperuser` register your account, your username and password you should see superuser created successfully
-- Run `python manage.py runserver` and navigate to your localhost admin directory on the browser **yourlocalhost/admin** to loging and perform some **CRUD** Operation on the App
+- Run `python manage.py runserver` and navigate to your localhost admin directory on the web browser **yourlocalhost/admin** to loging and perform some **CRUD** Operation on the App
 - To Add some Course to the App after login-in the admin dashboard navigate to course and fill the data to be updated 
 
 ## Contributing
