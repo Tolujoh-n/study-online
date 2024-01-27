@@ -4,8 +4,6 @@
 - Django run this to check `python -m django –version` if not installed install it using pip `pip install django`
 - PostgreSQL and have it connected properly
 ### Install the required package
-- Django needs an adpter called `Psycopg2` as an interface to work with PostgraSQL you can install it using this command 
-`python -m pip install Psycopg2-binary`
 - Install the required package for this project run `python -m pip install -U -r requirements.txt`
 ### Activate the Model for the App
 - You need to perform migration for first time running to create nessesary tables run `python manage.py makemigrations`
