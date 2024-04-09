@@ -1,4 +1,3 @@
-### install this dependencies and run it on your local computer
 - Python latest version which pip get installed with it automatically run this to check `Python -V`
 - Django run this to check `python -m django –version` if not installed install it using pip `pip install django`
 - PostgreSQL and have it connected properly
