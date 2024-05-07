@@ -22,5 +22,15 @@ It is an online course App you you need to be a superuser by creating an admin a
 - To Add some Course to the App after login-in the admin dashboard navigate to course and fill the data to be updated
 
 
+  ## Contributing
+1. Fork the Repo
+2. Make changes
+3. Send your pull request for review..
 
+## Show Love 💓
+
+Show Love by giving the Repo a star...😇
+thank you so much
+
+# New Link at [Tolu John](https://port.tolujohn.repl.co/)
 
