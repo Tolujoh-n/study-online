@@ -1,4 +1,8 @@
 ### install this dependencies and run it on your local computer
+- Python latest version which pip get installed with it automatically run this to check `Python -V`
+- Django run this to check `python -m django –version` if not installed install it using pip `pip install django`
+- PostgreSQL and have it connected properly
+Then you gonna see the Online course loads up site load up..
 
 
 - You need to perform migration for first time running to create nessesary tables run `python manage.py makemigrations`
