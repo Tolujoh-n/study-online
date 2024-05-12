@@ -23,6 +23,12 @@ It is an online course App you you need to be a superuser by creating an admin a
 
 
 
+  ## Contributing
+1. Fork the Repo
+2. Make changes
+3. Send your pull request for review..
+
+## Show Love 💓
 Show Love by giving the Repo a star...😇
 thank you so much
 
