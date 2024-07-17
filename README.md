@@ -1,5 +1,4 @@
-p
-- To Add some Course to the App after login-in the admin dashboard navigate to course and fill the data to be updated
+o the App after login-in the admin dashboard navigate to course and fill the data to be updated
 
 
 - You need to perform migration for first time running to create nessesary tables run `python manage.py makemigrations`
