@@ -35,7 +35,7 @@ It is an online course App you you need to be a superuser by creating an admin a
 
 ## Show Love 💓
 Show Love by giving the Repo a star...😇
-tha
+thank you so much...
 
 # New Link at [Tolu John](https://port.tolujohn.repl.co/)
 
