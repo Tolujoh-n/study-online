@@ -10,11 +10,6 @@ Then you gonna see the Online course loads up site load up.....
 - To Add some Course to the App after login-in the admin dashboard navigate to course and fill the data to be updated
 
 
-- You need to perform migration for first time running to create nessesary tables run `python manage.py makemigrations`
-- Run migration to activate model for the app run `python manage.py migrate`
-- Run `python manage.py runserver` to check the online course app on the brouser
-
-### Install the required package
 
 
 
