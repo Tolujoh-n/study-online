@@ -14,7 +14,10 @@ Then you gonna see the Online course loads up site load up..
 - Run migration to activate model for the app run `python manage.py migrate`
 - Run `python manage.py runserver` to check the online course app on the brouser
 
-#
+### Install the required packag
+
+- Install the required package for this project run `python -m pip install -U -r requirements.txt`
+### Activate the Model for the App..
 
 
 ## Update the App with your Data 
