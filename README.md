@@ -2,7 +2,7 @@
 - Python latest version which pip get installed with it automatically run this to check `Python -V`
 - Django run this to check `python -m django –version` if not installed install it using pip `pip install django`
 - PostgreSQL and have it connected properly
-Then you gonna see the Online course loads up site load up. th
+Then you gonna see the Online course loads up site load up..
 
 ## Update the app data...
 - create an admin user with this command  `python manage.py createsuperuser` register your account, your username and password you should see superuser created successfully
